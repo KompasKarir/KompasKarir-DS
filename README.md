@@ -1,29 +1,17 @@
 # 🧭 Kompas Karir - RIASEC Career & Academic Performance Dashboard
 
-**Sistem rekomendasi karir berbasis analisis kepribadian RIASEC dengan integrasi data akademik siswa Universitas Indonesia.**
+**Sistem rekomendasi jurusan berbasis analisis kepribadian RIASEC dengan integrasi data akademik siswa SMA.**
 
 Repositori ini berisi **Notebook untuk eksplorasi data**, **Dataset RIASEC yang telah diproses**, dan **Dashboard Interaktif** untuk visualisasi dan analisis hasil.
 
 ---
-
-## 📚 Daftar Isi
-
-1. [Tentang Proyek](#tentang-proyek)
-2. [Struktur Repository](#struktur-repository)
-3. [Notebook - Analisis Data](#-notebook---analisis-data)
-4. [Dataset - Data & Kegunaannya](#-dataset---data--kegunaannya)
-5. [Dashboard - Visualisasi Interaktif](#-dashboard---visualisasi-interaktif)
-6. [Langkah-langkah Replikasi](#-langkah-langkah-replikasi)
-7. [Persyaratan & Instalasi](#-persyaratan--instalasi)
-8. [Cara Menjalankan](#-cara-menjalankan)
-9. [Fitur Dashboard](#-fitur-dashboard)
-10. [Teknologi & Library](#-teknologi--library)
-
----
+> ⚠️ **DISCLAIMER**
+>
+> Dataset dan hasil analisis pada repository ini merupakan data sintetis dan digunakan hanya untuk tujuan edukasi dan demonstrasi. Hasil prediksi tidak boleh digunakan sebagai dasar pengambilan keputusan akademik atau profesional tanpa validasi lebih lanjut.
 
 ## 🎯 Tentang Proyek
 
-**Kompas Karir** adalah sistem rekomendasi karir yang menganalisis kepribadian siswa menggunakan **model RIASEC (Realistic, Investigative, Artistic, Social, Enterprising, Conventional)** yang dikombinasikan dengan **data kinerja akademik** dari Universitas Indonesia.
+**Kompas Karir** adalah sistem rekomendasi karir yang menganalisis kepribadian siswa menggunakan **model RIASEC (Realistic, Investigative, Artistic, Social, Enterprising, Conventional)** yang dikombinasikan dengan **data hasil akademik**.
 
 ### Tujuan Proyek:
 - 📊 **Analisis Kepribadian**: Memetakan distribusi siswa ke dalam 6 tipe kepribadian RIASEC
