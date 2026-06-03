@@ -1199,7 +1199,7 @@ st.markdown("""
     <p style='margin: 0.5rem 0; color: #b0b0b0;'><strong>Tujuan:</strong> Memandu siswa menemukan jalur karir yang sesuai dengan potensi mereka</p>
     <p style='margin: 1rem 0 0 0; color: #808080; font-size: 0.85em;'>
         Menggunakan Framework RIASEC (Holland's Theory) untuk analisis kepribadian<br>
-        Mengintegrasikan data akademik & preferensi karir untuk rekomendasi komprehensif<br>
+        Mengintegrasikan data akademik & preferensi program studi untuk rekomendasi komprehensif<br>
         © 2026 - Kompas Karir
     </p>
 </div>
