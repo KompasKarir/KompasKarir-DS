@@ -334,10 +334,3 @@ Dashboard akan:
 - **Data Format**: CSV, XLSX, JSON (supported)
 
 ---
-## 🎓 Tim Pengembang
-
-**Data Scientist**: [Carli Tamba]  
-**Institusi**: Universitas Negeri Pdang
-**Data Scientist**: [Carli Tamba]  
-**Institusi**: Universitas Negeri Pdang
----
