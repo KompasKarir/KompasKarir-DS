@@ -1200,7 +1200,7 @@ st.markdown("""
     <p style='margin: 1rem 0 0 0; color: #808080; font-size: 0.85em;'>
         Menggunakan Framework RIASEC (Holland's Theory) untuk analisis kepribadian<br>
         Mengintegrasikan data akademik & preferensi karir untuk rekomendasi komprehensif<br>
-        © 2024 - Universitas Indonesia | Kompas Karir
+        © 2026 - Kompas Karir
     </p>
 </div>
 """, unsafe_allow_html=True)
