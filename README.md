@@ -143,11 +143,6 @@ Kolom Utama:
 ## 💻 Dashboard - Visualisasi Interaktif
 
 ### File: `dashboard.py`
-
-**Framework**: Streamlit v1.28.1  
-**Theme**: Dark mode dengan aksen teal (#10a396) - warna Kompas Karir  
-**Accessibility**: WCAG AAA compliant
-
 ### 5 Halaman Dashboard:
 
 #### **1. 📊 Ringkasan (Overview)**
