@@ -35,17 +35,14 @@ KompasKarir_DS/
 │   ├── riasec_ml_ready.csv                         (Data siap ML)
 │   ├── riasec_data_dictionary.xlsx                 (Kamus data)
 │   ├── Riasec_item.xlsx                            (Item RIASEC questionnaire)
-│   ├── program_studi_aggregated.csv                (Data program studi agregat)
-│   ├── data_prodi_ukt_universitas_indonesia.xlsx   (Data program UI)
-│   ├── data_prodi_ukt_universitas_indonesia 1.xlsx (Data program UI - Part 1)
-│   └── data_prodi_ukt_universitas_indonesia 2.xlsx (Data program UI - Part 2)
+│   ├── program_studi_aggregated.csv                (Data 70 program studi)
+│   └── data_prodi_ukt_universitas_indonesia.xlsx   (Data program studi di 22 kampus Indonesia)
 │
 ├── 💻 dashboard.py                                 (Aplikasi Streamlit utama)
 ├── 📋 requirements.txt                             (Python dependencies)
 ├── 🎨 logo-kompas-karir.png                        (Logo branding)
-├── 📖 README.md                                    (File ini)
-├── 🚀 GETTING_STARTED.md                           (Quick start guide)
-└── 📚 REPOSITORY_STRUCTURE.md                      (Penjelasan struktur repository)
+└── 📖 README.md                                    (File ini)
+
 ```
 
 ---
@@ -98,9 +95,8 @@ Dataset yang digunakan adalah data siswa SMA Kelas 10 dengan informasi kepribadi
 | File | Deskripsi | Kegunaan |
 |------|-----------|----------|
 | `program_studi_aggregated.csv` | Data program studi dalam bentuk agregat | Referensi program studi |
-| `data_prodi_ukt_universitas_indonesia.xlsx` | Data program studi beberapa kampus di Indonesia | Mapping program dengan RIASEC |
-| `data_prodi_ukt_universitas_indonesia 1.xlsx` | Data program studi beberapa kampus Bagian 1| Backup & detail tambahan |
-| `data_prodi_ukt_universitas_indonesia 2.xlsx` | Data program studi beberapa kampus Bagian 2| Backup & detail tambahan |
+| `data_prodi_ukt_universitas_indonesia.xlsx` | Data program studi 22 kampus di Indonesia | Rekomendasi perguruan tinggi berdasarkan rekomendasi Prodi |
+
 
 ### Struktur Data RIASEC:
 
@@ -196,32 +192,6 @@ Pencarian dan filter siswa individual:
 - Program studi
 - Nilai akademik semua mata pelajaran
 - Pagination untuk browsing data
-
-### Fitur Interaktif:
-
-✨ **Sidebar Filter**:
-- Filter berdasarkan tipe kepribadian RIASEC
-- Real-time filtering
-- Statistics tentang data terpilih
-- Reset filter button
-
-🎨 **Modern Design**:
-- Dark mode (#0a0f0d) untuk kenyamanan mata
-- Teal accent (#10a396) untuk brand consistency
-- High contrast text (#d8d8d8, #ffffff) untuk readability
-- Responsive layout untuk berbagai ukuran layar
-
-📊 **Interactive Visualizations**:
-- Pie charts untuk distribusi
-- Bar charts untuk komparasi
-- Line charts untuk trends
-- Heatmaps untuk korelasi
-- Hover tooltips untuk detail
-
-🚀 **Performance Optimized**:
-- @st.cache_data untuk mempercepat loading
-- Lazy loading untuk visualisasi besar
-- Efficient data filtering
 
 ---
 
