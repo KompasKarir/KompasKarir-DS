@@ -256,7 +256,7 @@ Dashboard akan buka di `http://localhost:8501`
 
 ## 🛠 Teknologi & Library
 
-### Backend & Frontend:
+ **python**: Versi 3.11.5
 
 | Library | Versi | Fungsi |
 |---------|-------|--------|
