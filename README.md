@@ -36,7 +36,7 @@ KompasKarir_DS/
 │   ├── riasec_data_dictionary.xlsx                 (Kamus data)
 │   ├── Riasec_item.xlsx                            (Item RIASEC)
 │   ├── program_studi_aggregated.csv                (Data 70 program studi)
-│   └── data_prodi_ukt_universitas_indonesia.xlsx   (Data program studi di 22 kampus Indonesia)
+│   └── data_prodi_ukt_universitas_indonesia.xlsx   (Data 22 kampus Indonesia)
 │
 ├── 💻 dashboard.py                                 (Aplikasi Streamlit utama)
 ├── 📋 requirements.txt                             (Python dependencies)
@@ -95,7 +95,7 @@ Dataset yang digunakan adalah data siswa SMA dengan informasi kepribadian RIASEC
 | File | Deskripsi | Kegunaan |
 |------|-----------|----------|
 | `program_studi_aggregated.csv` | Data program studi dalam bentuk agregat | Referensi program studi |
-| `data_prodi_ukt_universitas_indonesia.xlsx` | Data program studi 22 kampus di Indonesia | Rekomendasi perguruan tinggi berdasarkan rekomendasi Prodi |
+| `data_prodi_ukt_universitas_indonesia.xlsx` | Data program studi, lokasi, ukt 22 kampus di Indonesia | Rekomendasi perguruan tinggi berdasarkan rekomendasi Prodi |
 
 
 ### Struktur Data RIASEC:
@@ -151,7 +151,6 @@ Halaman pertama yang menampilkan statistik keseluruhan:
 - Jumlah tipe RIASEC
 - Jumlah program studi
 - Rata-rata nilai akademik
-- Visualisasi distribusi RIASEC dengan pie chart
 - Grafik performa akademik per tipe kepribadian
 
 #### **2. 🧭 Tipe Kepribadian (RIASEC Analysis)**
@@ -166,17 +165,13 @@ Analisis mendalam untuk setiap tipe kepribadian:
 #### **3. 📈 Performa Akademik (Academic Performance)**
 Analisis kinerja siswa berdasarkan mata pelajaran:
 - Statistik per mata pelajaran (Mean, Min, Max, Std Dev)
-- Box plot untuk setiap mata pelajaran
 - Distribusi nilai akademik
 - Perbandingan performa antar tipe RIASEC
-- Heatmap korelasi RIASEC score vs nilai akademik
 
 #### **4. 🏫 Distribusi Program Studi (Program Distribution)**
 Pemetaan RIASEC dengan program studi:
 - Top programs per tipe RIASEC
 - Distribusi siswa per program
-- Cross-tabulation RIASEC vs Program
-- Visualisasi hubungan dalam bentuk sunburst chart
 - Insights program mana yang paling populer
 
 #### **5. 👥 Profil Siswa (Student Profiles)**
