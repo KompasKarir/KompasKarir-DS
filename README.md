@@ -254,21 +254,6 @@ Dashboard akan buka di `http://localhost:8501`
 
 ---
 
-
-## 🚀 Cara Menjalankan
-
-### Menjalankan Dashboard:
-
-```powershell
-# Run dashboard
-streamlit run dashboard.py
-```
-
-Dashboard akan:
-- Compile & load data
-- Open di browser default (http://localhost:8501)
-- Display "Ringkasan" page sebagai default
-
 ## 🛠 Teknologi & Library
 
 ### Backend & Frontend:
