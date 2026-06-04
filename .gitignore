@@ -5,3 +5,6 @@ venv/
 # Python cache
 __pycache__/
 *.pyc
+
+data_prodi_ukt_universitas_indonesia_2.xlsx
+data_prodi_ukt_universitas_indonesia_1.xlsx
