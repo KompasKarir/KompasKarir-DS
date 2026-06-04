@@ -34,7 +34,7 @@ KompasKarir_DS/
 │   ├── riasec_dataset_processed.csv                (Data terproses untuk dashboard)
 │   ├── riasec_ml_ready.csv                         (Data siap ML)
 │   ├── riasec_data_dictionary.xlsx                 (Kamus data)
-│   ├── Riasec_item.xlsx                            (Item RIASEC questionnaire)
+│   ├── Riasec_item.xlsx                            (Item RIASEC)
 │   ├── program_studi_aggregated.csv                (Data 70 program studi)
 │   └── data_prodi_ukt_universitas_indonesia.xlsx   (Data program studi di 22 kampus Indonesia)
 │
@@ -87,7 +87,7 @@ Dataset yang digunakan adalah data siswa SMA Kelas 10 dengan informasi kepribadi
 | `riasec_dataset_raw.csv` | Data mentah RIASEC dan nilai akademik | Input untuk notebook analisis |
 | `riasec_dataset_processed.csv` | Data RIASEC yang sudah dibersihkan & diproses | Input utama untuk dashboard |
 | `riasec_ml_ready.csv` | Data siap untuk machine learning | Input untuk modeling & predictive analytics |
-| `Riasec_item.xlsx` | Item-item pertanyaan RIASEC questionnaire | Referensi pertanyaan (12 item per tipe × 6 = 72 items) |
+| `Riasec_item.xlsx` | Item-item pertanyaan RIASEC  | Referensi pertanyaan (12 item per tipe × 6 = 72 items) |
 | `riasec_data_dictionary.xlsx` | Kamus data (penjelasan kolom) | Memahami struktur data |
 
 #### **2. Program Studi Data**
