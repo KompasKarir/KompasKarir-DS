@@ -76,7 +76,7 @@ KompasKarir_DS/
 >
 > Data RIASEC pada repository ini merupakan data sintetis dan digunakan hanya untuk keperluan proyek kelompok dan demonstrasi. Hasil prediksi tidak boleh digunakan sebagai dasar pengambilan keputusan akademik atau profesional tanpa validasi lebih lanjut.
 
-Dataset yang digunakan adalah data siswa SMA Kelas 10 dengan informasi kepribadian RIASEC dan performa akademik.
+Dataset yang digunakan adalah data siswa SMA dengan informasi kepribadian RIASEC dan performa akademik ketika kelas 10.
 
 ### File Dataset & Penjelasan:
 
